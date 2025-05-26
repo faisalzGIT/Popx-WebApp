@@ -54,4 +54,58 @@ src/
 │   └── p.svg  # Logo asset
 ├── App.jsx  # Main application component
 └── main.jsx  # Application entry point
+<<<<<<< HEAD
 ```
+=======
+```
+
+## Features in Detail
+
+### Home Page
+- Welcome screen with logo
+- Options to create account or login
+- Responsive design for many devices
+
+### Authentication
+- Email validation
+- Password strength requirements
+- Secure password storage
+- Form validation with error messages
+
+### Profile Management
+- Edit personal information
+- Upload/remove profile picture
+- Add/edit bio
+- Toggle between agency and individual account types
+- Save/cancel changes functionality
+
+### UI/UX Features
+- Floating label inputs
+- Password visibility toggle
+- Smooth transitions
+- Form validation feedback
+- Responsive design
+- Modern purple theme
+
+## Development
+
+To run the project in development mode:
+
+```bash
+npm run dev
+```
+
+To build for production:
+
+```bash
+npm run build
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+>>>>>>> e2b7cc3f489c8efc5e6fd77dc9efe9f465934ddd
