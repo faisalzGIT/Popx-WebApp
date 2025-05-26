@@ -93,7 +93,7 @@ function Login() {
                         </div>
                         <button
                           type="submit"
-                          className="w-full bg-purple-700 text-white py-2 rounded-md hover:bg-purple-800 transition">
+                          className="w-full font-semibold bg-purple-700 text-purple-50 py-2 rounded-md hover:bg-purple-800 transition">
                           Login
                         </button>
                     </form>

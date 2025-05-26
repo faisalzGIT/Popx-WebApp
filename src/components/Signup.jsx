@@ -277,9 +277,8 @@ const Signup = () => {
           {/* Submit Button */}
           <button
             onClick={handleSubmit}
-            className="w-full bg-purple-600 hover:bg-purple-700 text-white font-medium py-4 px-6 rounded-xl transition-colors duration-200 focus:ring-2 focus:ring-purple-500 focus:ring-offset-2 outline-none mt-8"
-          >
-            Create Account
+            className="w-full font-semibold text-[19px] bg-purple-600 hover:bg-purple-700 text-purple-50 py-4 px-6 rounded-xl transition-colors duration-200 focus:ring-2 focus:ring-purple-500 focus:ring-offset-2 outline-none mt-8">
+                Create Account
           </button>
         </form>
       </div>
