@@ -87,7 +87,7 @@ const Signup = () => {
   };
 
   return (
-    <div className="h-[100vh] relative top-0 bg-gray-50 flex items-center justify-center ">
+    <div className="h-[100vh] relative top-0 bg-purple-50 flex items-center justify-center ">
       <div className="h-[100vh] bg-white shadow-lg p-6 w-full md:w-[370px]">
         <h1 className="text-2xl font-bold mb-8 border-b-1 text-purple-900 border-purple-600 pb-3 px-3 w-fit m-auto">
           Create your PopX account

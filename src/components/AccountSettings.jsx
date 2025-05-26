@@ -63,7 +63,7 @@ const AccountSettings = () => {
     <div className="min-h-screen bg-purple-50 p-2 sm:p-4">
       <div className="max-w-2xl mx-auto">
         {/* Header */}
-        <div className="bg-white rounded-xl shadow-sm p-4 sm:p-6 mb-4 sm:mb-6">
+        <div className="bg-white rounded-xl shadow-sm p-4 sm:p-6 mb-4 sm:mb-3">
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-4 sm:mb-6 gap-4">
             <h1 className="text-xl sm:text-2xl font-bold text-gray-900">Account Settings</h1>
             {isEditing ?  (
@@ -176,7 +176,7 @@ const AccountSettings = () => {
         </div>
 
         {/* Bio Section */}
-        <div className="bg-white rounded-xl shadow-sm p-4 sm:p-6 mb-4 sm:mb-6">
+        <div className="bg-white rounded-xl shadow-sm p-4 sm:p-6 mb-4 sm:mb-3">
           <h3 className="text-base sm:text-lg font-semibold text-gray-900 mb-3 sm:mb-4">About</h3>
           {isEditing ? (
             <textarea
@@ -192,7 +192,7 @@ const AccountSettings = () => {
         </div>
 
         {/* Contact Information */}
-        <div className="bg-white rounded-xl shadow-sm p-4 sm:p-6 mb-4 sm:mb-6">
+        <div className="bg-white rounded-xl shadow-sm p-4 sm:p-6 mb-4 sm:mb-3">
           <h3 className="text-base sm:text-lg font-semibold text-gray-900 mb-4 sm:mb-6">Contact Information</h3>
           
           <div className="space-y-4 sm:space-y-4">
