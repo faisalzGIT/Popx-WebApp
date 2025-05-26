@@ -69,7 +69,7 @@ src/
 ### Home Page
 - Welcome screen with logo
 - Options to create account or login
-- Responsive design for all devices
+- Responsive design for many devices
 
 ### Authentication
 - Email validation
